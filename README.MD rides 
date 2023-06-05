@@ -1,0 +1,25 @@
+Bike Sharing 
+
+The purpose of the analysis is well defined. (5 pt)
+Results:
+    The purpose for this analysis is to convince investors that a program for bike-sharing is a good business to pursue. For this analysis, Pandas and tableau will be used. Pandas will be used to show the change in tripduration from integer to date time. Tableau will play a role in showing the visualizations. The visual of the analysis will show the number of bike trips for each hour, number of riders for each day of the week, and length of time that the bikes are checked out. Each one of these visualizations will show the differnces in gender and race as well.
+
+
+There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+There is a description of the results for each visualization (7 pt)
+    
+    Checkout time visualization shows the length of time that bikes are checked out for all riders. This shows that fifteen to thurty minutes most of the rides lasted that long.
+
+    Checkout times by gender visualization shows the length of time the bikes were checked out for male or female.This reveals that most riders are more so males than females.
+
+    Trips by weekday for each hour visualization shows the number of bike trips by hour on the weekday. The visual shows that during 7 AM - 9 AM, then between 5 PM - 6 PM are the times where majority bike riders are riding. 
+
+    Trips by gender visualization shows the number of bike trips for each gender an hour during the week. On the heatmap it shows that males are using the bikes between 5 PM - 6 PM during the week. 
+
+    User trips by gender by weekday visualization shows the number of bike trips by gender for each hour a day during a week. Males shows a high usage rate during the week. 
+
+
+Summary:
+
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+    As for Des Moines being the capital of Iowa. This city is ranked the best city for living and businesses. Being so this business opportunity is great for the area. For future analysis I would recommend parterning with another business. Maybe this will help build subscribers and get a business plan on discounted trips. My nest recommendation would be maybe doing couple rides on the weekends. Couples may want to do a romantic date night and ride downtown. This would encourage more females to ride and it will be special. 
